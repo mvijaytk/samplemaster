@@ -6,3 +6,12 @@ System.out.println("Hello Java");
 	}
 }
 }
+
+/* Added in diff line after 6 */
+class TestJava{
+public static void main(String args[]){
+for (int i = 10; i <=70; i++) {
+System.out.println("Hello Java2");
+	}
+}
+}
