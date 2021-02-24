@@ -7,6 +7,16 @@ System.out.println("Hello Java");
 }
 }
 
+/* Added in diff. line*/
+class TestJava{
+public static void main(String args[]){
+for (int i = 0; i <=7; i++) {
+  System.out.println("Hello Java1");
+	}
+}
+}
+
+
 /* Added in diff line after 6 */
 class TestJava{
 public static void main(String args[]){
@@ -15,3 +25,5 @@ System.out.println("Hello Java2");
 	}
 }
 }
+
+
